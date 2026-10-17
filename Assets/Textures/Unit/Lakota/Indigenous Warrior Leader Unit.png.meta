@@ -1,0 +1,1326 @@
+fileFormatVersion: 2
+guid: e517a0a7fd4568240885e68c110a1771
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8909645050211950311
+    second: Indigenous Warrior Leader Unit_0
+  - first:
+      213: 2232164344690163946
+    second: Indigenous Warrior Leader Unit_1
+  - first:
+      213: -3041938817357186040
+    second: Indigenous Warrior Leader Unit_2
+  - first:
+      213: -8534724046365897688
+    second: Indigenous Warrior Leader Unit_3
+  - first:
+      213: 7820229379585619467
+    second: Indigenous Warrior Leader Unit_4
+  - first:
+      213: 1560470173691390925
+    second: Indigenous Warrior Leader Unit_5
+  - first:
+      213: 1259963402589889545
+    second: Indigenous Warrior Leader Unit_6
+  - first:
+      213: -4906379467367223468
+    second: Indigenous Warrior Leader Unit_7
+  - first:
+      213: -1128618991022346197
+    second: Indigenous Warrior Leader Unit_8
+  - first:
+      213: 9181787098158647932
+    second: Indigenous Warrior Leader Unit_9
+  - first:
+      213: 3097121079421809334
+    second: Indigenous Warrior Leader Unit_10
+  - first:
+      213: 2308559582535545499
+    second: Indigenous Warrior Leader Unit_11
+  - first:
+      213: -8499149093392959128
+    second: Indigenous Warrior Leader Unit_12
+  - first:
+      213: 8715491845115851194
+    second: Indigenous Warrior Leader Unit_13
+  - first:
+      213: 1498631141419732686
+    second: Indigenous Warrior Leader Unit_14
+  - first:
+      213: -7900410950603933655
+    second: Indigenous Warrior Leader Unit_15
+  - first:
+      213: -8123119801578417515
+    second: Indigenous Warrior Leader Unit_16
+  - first:
+      213: 5744667953724968022
+    second: Indigenous Warrior Leader Unit_17
+  - first:
+      213: 8206195686088614406
+    second: Indigenous Warrior Leader Unit_18
+  - first:
+      213: 5672618807847173266
+    second: Indigenous Warrior Leader Unit_19
+  - first:
+      213: 488307782411040945
+    second: Indigenous Warrior Leader Unit_20
+  - first:
+      213: -4436090063140314345
+    second: Indigenous Warrior Leader Unit_21
+  - first:
+      213: 5459794481130355997
+    second: Indigenous Warrior Leader Unit_22
+  - first:
+      213: 1423356394945795155
+    second: Indigenous Warrior Leader Unit_23
+  - first:
+      213: -7254372856141381252
+    second: Indigenous Warrior Leader Unit_24
+  - first:
+      213: -4937557620597149824
+    second: Indigenous Warrior Leader Unit_25
+  - first:
+      213: -3861439816691596226
+    second: Indigenous Warrior Leader Unit_26
+  - first:
+      213: 7338845182017523329
+    second: Indigenous Warrior Leader Unit_27
+  - first:
+      213: 1051624667582172761
+    second: Indigenous Warrior Leader Unit_28
+  - first:
+      213: 4359845634290627576
+    second: Indigenous Warrior Leader Unit_29
+  - first:
+      213: 4219243951575015648
+    second: Indigenous Warrior Leader Unit_30
+  - first:
+      213: -271131921160424580
+    second: Indigenous Warrior Leader Unit_31
+  - first:
+      213: -4909583760018401271
+    second: Indigenous Warrior Leader Unit_32
+  - first:
+      213: 5615410590437659693
+    second: Indigenous Warrior Leader Unit_33
+  - first:
+      213: -8295245310583668683
+    second: Indigenous Warrior Leader Unit_34
+  - first:
+      213: -7642335574323539908
+    second: Indigenous Warrior Leader Unit_35
+  - first:
+      213: -3747757561985952314
+    second: Indigenous Warrior Leader Unit_36
+  - first:
+      213: -5130841921447782706
+    second: Indigenous Warrior Leader Unit_37
+  - first:
+      213: -6664582890102323499
+    second: Indigenous Warrior Leader Unit_38
+  - first:
+      213: -8388523115240765785
+    second: Indigenous Warrior Leader Unit_39
+  - first:
+      213: -6813091973743213060
+    second: Indigenous Warrior Leader Unit_40
+  - first:
+      213: -5118511904321104173
+    second: Indigenous Warrior Leader Unit_41
+  - first:
+      213: 7875165253240822916
+    second: Indigenous Warrior Leader Unit_42
+  - first:
+      213: 4947995595466585148
+    second: Indigenous Warrior Leader Unit_43
+  - first:
+      213: -1999178513469072264
+    second: Indigenous Warrior Leader Unit_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.45}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_0
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 13
+        width: 926
+        height: 1233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee53b4c7fa65ab70800000000000000
+      internalID: 8909645050211950311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1245
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0cc8d15ad3afe10800000000000000
+      internalID: 2232164344690163946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 308
+        height: 1205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cf3f233ccd8c5d0800000000000000
+      internalID: -3041938817357186040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1195
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c4060e2b19e8980800000000000000
+      internalID: -8534724046365897688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1217
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b063648ff29078c60800000000000000
+      internalID: 7820229379585619467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1138
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba771fa57e7a510800000000000000
+      internalID: 1560470173691390925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1124
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 904ec510a0a4c7110800000000000000
+      internalID: 1259963402589889545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1070
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f6e4a9ed909ebb0800000000000000
+      internalID: -4906379467367223468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_8
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1076
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b207a51e1075650f0800000000000000
+      internalID: -1128618991022346197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_9
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 967
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac205f7b24c6f70800000000000000
+      internalID: 9181787098158647932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_10
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 972
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2bf45663f2bfa20800000000000000
+      internalID: 3097121079421809334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 913
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92fad385b6a90020800000000000000
+      internalID: 2308559582535545499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_12
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 811
+        width: 72
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 869ba331ee4fc0a80800000000000000
+      internalID: -8499149093392959128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 866
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1b1fe08a5a3f870800000000000000
+      internalID: 8715491845115851194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 859
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece49a145153cc410800000000000000
+      internalID: 1498631141419732686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 808
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92875ad391a1c5290800000000000000
+      internalID: -7900410950603933655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 769
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5921afe1491e44f80800000000000000
+      internalID: -8123119801578417515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_17
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 765
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cc85e311929bf40800000000000000
+      internalID: 5744667953724968022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_18
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 728
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602a7aa8f7342e170800000000000000
+      internalID: 8206195686088614406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_19
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 712
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c3eeb30c039be40800000000000000
+      internalID: 5672618807847173266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_20
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 711
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b83ba74751d6c600800000000000000
+      internalID: 488307782411040945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 702
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713a1ea4797df62c0800000000000000
+      internalID: -4436090063140314345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_22
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 680
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db962472615cb40800000000000000
+      internalID: 5459794481130355997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 677
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35456859917c0c310800000000000000
+      internalID: 1423356394945795155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 656
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710579925a435b90800000000000000
+      internalID: -7254372856141381252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 552
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08fa84e11854a7bb0800000000000000
+      internalID: -4937557620597149824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 658
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e344c8c02f8696ac0800000000000000
+      internalID: -3861439816691596226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_27
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 481
+        width: 93
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ecdb76fc0d8d560800000000000000
+      internalID: 7338845182017523329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_28
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 527
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e064c301f189e00800000000000000
+      internalID: 1051624667582172761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_29
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 497
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f33e634188418c30800000000000000
+      internalID: 4359845634290627576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_30
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 422
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0285af404cd8a30800000000000000
+      internalID: 4219243951575015648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_31
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 423
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73b6f744febc3cf0800000000000000
+      internalID: -271131921160424580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_32
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 419
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90893151597addbb0800000000000000
+      internalID: -4909583760018401271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 401
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24d0072e22fded40800000000000000
+      internalID: 5615410590437659693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_34
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 373
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308fe1175e51ec80800000000000000
+      internalID: -8295245310583668683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_35
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 383
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305d163948f0f590800000000000000
+      internalID: -7642335574323539908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_36
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 260
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c51b859a5a4dfbc0800000000000000
+      internalID: -3747757561985952314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 357
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec61c61f4769bc8b0800000000000000
+      internalID: -5130841921447782706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 353
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d60e430c25a283a0800000000000000
+      internalID: -6664582890102323499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_39
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 280
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6cbe5cbaaf59b80800000000000000
+      internalID: -8388523115240765785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 272
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf588fa72f80371a0800000000000000
+      internalID: -6813091973743213060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_41
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 140
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d61554ca8467f8b0800000000000000
+      internalID: -5118511904321104173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_42
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 99
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c1beac2153a4d60800000000000000
+      internalID: 7875165253240822916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 68
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34bbf947cfcaa440800000000000000
+      internalID: 4947995595466585148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Indigenous Warrior Leader Unit_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 30
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c151eebbd7144e0800000000000000
+      internalID: -1999178513469072264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Indigenous Warrior Leader Unit_0: 8909645050211950311
+      Indigenous Warrior Leader Unit_1: 2232164344690163946
+      Indigenous Warrior Leader Unit_10: 3097121079421809334
+      Indigenous Warrior Leader Unit_11: 2308559582535545499
+      Indigenous Warrior Leader Unit_12: -8499149093392959128
+      Indigenous Warrior Leader Unit_13: 8715491845115851194
+      Indigenous Warrior Leader Unit_14: 1498631141419732686
+      Indigenous Warrior Leader Unit_15: -7900410950603933655
+      Indigenous Warrior Leader Unit_16: -8123119801578417515
+      Indigenous Warrior Leader Unit_17: 5744667953724968022
+      Indigenous Warrior Leader Unit_18: 8206195686088614406
+      Indigenous Warrior Leader Unit_19: 5672618807847173266
+      Indigenous Warrior Leader Unit_2: -3041938817357186040
+      Indigenous Warrior Leader Unit_20: 488307782411040945
+      Indigenous Warrior Leader Unit_21: -4436090063140314345
+      Indigenous Warrior Leader Unit_22: 5459794481130355997
+      Indigenous Warrior Leader Unit_23: 1423356394945795155
+      Indigenous Warrior Leader Unit_24: -7254372856141381252
+      Indigenous Warrior Leader Unit_25: -4937557620597149824
+      Indigenous Warrior Leader Unit_26: -3861439816691596226
+      Indigenous Warrior Leader Unit_27: 7338845182017523329
+      Indigenous Warrior Leader Unit_28: 1051624667582172761
+      Indigenous Warrior Leader Unit_29: 4359845634290627576
+      Indigenous Warrior Leader Unit_3: -8534724046365897688
+      Indigenous Warrior Leader Unit_30: 4219243951575015648
+      Indigenous Warrior Leader Unit_31: -271131921160424580
+      Indigenous Warrior Leader Unit_32: -4909583760018401271
+      Indigenous Warrior Leader Unit_33: 5615410590437659693
+      Indigenous Warrior Leader Unit_34: -8295245310583668683
+      Indigenous Warrior Leader Unit_35: -7642335574323539908
+      Indigenous Warrior Leader Unit_36: -3747757561985952314
+      Indigenous Warrior Leader Unit_37: -5130841921447782706
+      Indigenous Warrior Leader Unit_38: -6664582890102323499
+      Indigenous Warrior Leader Unit_39: -8388523115240765785
+      Indigenous Warrior Leader Unit_4: 7820229379585619467
+      Indigenous Warrior Leader Unit_40: -6813091973743213060
+      Indigenous Warrior Leader Unit_41: -5118511904321104173
+      Indigenous Warrior Leader Unit_42: 7875165253240822916
+      Indigenous Warrior Leader Unit_43: 4947995595466585148
+      Indigenous Warrior Leader Unit_44: -1999178513469072264
+      Indigenous Warrior Leader Unit_5: 1560470173691390925
+      Indigenous Warrior Leader Unit_6: 1259963402589889545
+      Indigenous Warrior Leader Unit_7: -4906379467367223468
+      Indigenous Warrior Leader Unit_8: -1128618991022346197
+      Indigenous Warrior Leader Unit_9: 9181787098158647932
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

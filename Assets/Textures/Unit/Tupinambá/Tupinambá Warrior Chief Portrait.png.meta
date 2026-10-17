@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: e5f9bbe5684c1dc4cb44426080ec79a4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7016550519563581668
+    second: "Tupinamb\xE1 Warrior Chief Portrait_0"
+  - first:
+      213: 1539409538734135708
+    second: "Tupinamb\xE1 Warrior Chief Portrait_1"
+  - first:
+      213: 100308981725339330
+    second: "Tupinamb\xE1 Warrior Chief Portrait_2"
+  - first:
+      213: -5548344675868522317
+    second: "Tupinamb\xE1 Warrior Chief Portrait_3"
+  - first:
+      213: -1977077567881189644
+    second: "Tupinamb\xE1 Warrior Chief Portrait_4"
+  - first:
+      213: 6438772136043091491
+    second: "Tupinamb\xE1 Warrior Chief Portrait_5"
+  - first:
+      213: 5663172003618518870
+    second: "Tupinamb\xE1 Warrior Chief Portrait_6"
+  - first:
+      213: -2859692654731884380
+    second: "Tupinamb\xE1 Warrior Chief Portrait_7"
+  - first:
+      213: -973219524764448024
+    second: "Tupinamb\xE1 Warrior Chief Portrait_8"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1241
+        height: 1247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e87b23b58bcf5160800000000000000
+      internalID: 7016550519563581668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_1"
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 988
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c999810c1d41d5510800000000000000
+      internalID: 1539409538734135708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_2"
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 200
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce1587cc7e546100800000000000000
+      internalID: 100308981725339330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_3"
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b84d67e9e15003b0800000000000000
+      internalID: -5548344675868522317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_4"
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66c015d620094e0800000000000000
+      internalID: -1977077567881189644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_5"
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 169
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3261886c42d1b5950800000000000000
+      internalID: 6438772136043091491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_6"
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 106
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6577e99bee0a79e40800000000000000
+      internalID: 5663172003618518870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_7"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 71
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a889eb8ea45058d0800000000000000
+      internalID: -2859692654731884380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tupinamb\xE1 Warrior Chief Portrait_8"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 71
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eac0f1affd6e72f0800000000000000
+      internalID: -973219524764448024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Tupinamb\xE1 Warrior Chief Portrait_0": 7016550519563581668
+      "Tupinamb\xE1 Warrior Chief Portrait_1": 1539409538734135708
+      "Tupinamb\xE1 Warrior Chief Portrait_2": 100308981725339330
+      "Tupinamb\xE1 Warrior Chief Portrait_3": -5548344675868522317
+      "Tupinamb\xE1 Warrior Chief Portrait_4": -1977077567881189644
+      "Tupinamb\xE1 Warrior Chief Portrait_5": 6438772136043091491
+      "Tupinamb\xE1 Warrior Chief Portrait_6": 5663172003618518870
+      "Tupinamb\xE1 Warrior Chief Portrait_7": -2859692654731884380
+      "Tupinamb\xE1 Warrior Chief Portrait_8": -973219524764448024
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
