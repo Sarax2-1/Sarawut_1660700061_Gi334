@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: 001_Merchantman
   m_EditorClassIdentifier: Assembly-CSharp::NavalUnitData
   unitName: Merchantman
-  navalUnitType: 1
-  strength: 6
+  navalUnitType: 2
+  strength: 2
   movePointMax: 5
-  visualRange: 0
-  shipIcon: {fileID: 21300000, guid: efe72675ae3abd54285515ea2ebe218a, type: 3}
+  visualRange: 1
+  shipIcon: {fileID: 21300000, guid: fd36d43a695c44d49ae289b0f12c125e, type: 3}
   armed: 0
-  cargoHoldNum: 4
+  cargoHoldNum: 2
